@@ -1,4 +1,9 @@
-### Hi there 👋
+##it's me Maheshdila 👋
+
+- 🌱 I’m currently learning Data Science and Engineering.
+- 📫 How to reach me: drop me an email I check them frequently.
+- ⚡ Fun fact: Food and sleep is optional when I started coding.
+  
 
 <!--
 **maheshdila/maheshdila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
