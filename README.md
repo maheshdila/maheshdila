@@ -1,4 +1,4 @@
-##it's me Maheshdila 👋
+## It's me Maheshdila 👋
 
 - 🌱 I’m currently learning Data Science and Engineering.
 - 📫 How to reach me: drop me an email I check them frequently.
